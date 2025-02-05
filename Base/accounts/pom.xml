@@ -13,7 +13,7 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>accounts</name>
-	<description>Microservice for Accounts of PDL Bank</description>
+	<description>Microservice for Accounts of PDL Bank by Paulo Lorenzo</description>
 	<url/>
 	<licenses>
 		<license/>
