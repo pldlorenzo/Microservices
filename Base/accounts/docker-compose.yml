@@ -1,0 +1,37 @@
+services:
+  accounts:
+    image: "pldlorenzo/accounts:p1"
+    container_name: accounts-ms
+    ports:
+      - "8080:8080"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - pldlorenzo
+  loans:
+    image: "pldlorenzo/loans:p1"
+    container_name: loans-ms
+    ports:
+      - "8090:8090"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - pldlorenzo
+  cards:
+    image: "pldlorenzo/cards:p1"
+    container_name: cards-ms
+    ports:
+      - "9000:9000"
+    deploy:
+      resources:
+        limits:
+          memory: 700m
+    networks:
+      - pldlorenzo
+networks:
+  pldlorenzo:
+    driver: "bridge"

@@ -14,7 +14,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>cards</name>
-    <description>Microservice for Cards</description>
+    <description>Microservice for Cards of PDL Bank by Paulo Lorenzo</description>
     <url/>
     <licenses>
         <license/>
@@ -92,7 +92,7 @@
                 <version>3.4.2</version>
                 <configuration>
                     <to>
-                        <image>eazybytes/${project.artifactId}:s4</image>
+                        <image>pldlorenzo/${project.artifactId}:p1</image>
                     </to>
                 </configuration>
             </plugin>

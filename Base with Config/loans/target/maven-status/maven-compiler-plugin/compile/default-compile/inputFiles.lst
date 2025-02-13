@@ -1,0 +1,16 @@
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\audit\AuditAwareImpl.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\constants\LoansConstants.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\controller\LoansController.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\dto\ErrorResponseDto.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\dto\LoansDto.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\dto\ResponseDto.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\entity\BaseEntity.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\entity\Loans.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\exception\GlobalExceptionHandler.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\exception\LoanAlreadyExistsException.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\exception\ResourceNotFoundException.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\LoansApplication.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\mapper\LoansMapper.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\repository\LoansRepository.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\service\ILoansService.java
+P:\Projects\Microservices\PDL Bank Microservices\Base\loans\src\main\java\com\pdlorenzo\loans\service\impl\LoansServiceImpl.java

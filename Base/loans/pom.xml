@@ -13,7 +13,7 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>loans</name>
-    <description>Microservice for Loans</description>
+    <description>Microservice for Loans of PDL Bank by Paulo Lorenzo</description>
     <url/>
     <licenses>
         <license/>
@@ -96,7 +96,7 @@
                 <artifactId>spring-boot-maven-plugin</artifactId>
                 <configuration>
                     <image>
-                        <name>eazybytes/${project.artifactId}:s4</name>
+                        <name>pldlorenzo/${project.artifactId}:p1</name>
                     </image>
                 </configuration>
             </plugin>
